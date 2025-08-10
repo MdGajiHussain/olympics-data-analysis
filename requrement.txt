@@ -2,3 +2,15 @@ streamlit
 plotly
 seaborn
 matplotlib
+
+
+
+
+//change in code save
+git add . 
+
+//chages commit
+git commit -m "kuch bhi likho"
+
+//code push on git hub
+git push
